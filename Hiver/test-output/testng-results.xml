@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51324" started-at="2020-07-14T14:28:08 IST" finished-at="2020-07-14T14:29:00 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51324" started-at="2020-07-14T14:28:08 IST" finished-at="2020-07-14T14:29:00 IST">
+      <class name="com.hiver.qa.testcases.AdminPanelTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hiver.qa.testcases.AdminPanelTest@6c49835d]" name="setup" is-config="true" duration-ms="43695" started-at="2020-07-14T14:28:08 IST" finished-at="2020-07-14T14:28:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickhivericonagain()[pri:1, instance:com.hiver.qa.testcases.AdminPanelTest@6c49835d]" name="clickhivericonagain" duration-ms="2402" started-at="2020-07-14T14:28:52 IST" finished-at="2020-07-14T14:28:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickhivericonagain -->
+        <test-method status="PASS" signature="Clickadminpanel()[pri:2, instance:com.hiver.qa.testcases.AdminPanelTest@6c49835d]" name="Clickadminpanel" duration-ms="5166" started-at="2020-07-14T14:28:54 IST" finished-at="2020-07-14T14:29:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clickadminpanel -->
+      </class> <!-- com.hiver.qa.testcases.AdminPanelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
